@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ebXUdoSiNyMT+Set6yAzJbEIsATAyUHJNSbg31/G8GauDD2O/ffbw1lHTO/J7HOpuDlnu8O1/KmKcYUgjn9LeA==",
+  "dgSpecHash": "8C+lXtLux4Eo2B/vr0Cl9puxXgyxupOU1+U6TURBHg+jsF2zGzZYcD8X7YS5ZvILXi7VDOjufO4/QiEyWCMqLw==",
   "success": true,
   "projectFilePath": "D:\\Development\\Palindrome\\Palindrome\\Palindrome.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
