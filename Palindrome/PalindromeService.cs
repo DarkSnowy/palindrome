@@ -73,7 +73,7 @@ namespace Palindrome
                     var palindrome = value.Substring(index, diff + 1);
                     palindromes.Add(palindrome);
 
-                    while(!options.OnlyWholePalindromes && palindrome.Length > 2)
+                    while(!options.OnlyWholePalindromes && palindrome.Length > 3)
                     {
                         palindrome = palindrome.TrimFrontAndBackByOne();
 
